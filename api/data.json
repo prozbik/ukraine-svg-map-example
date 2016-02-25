@@ -1,0 +1,28 @@
+[
+
+{
+	"id"  : "UA-32",
+	"name": "Region 1",
+	"address": "Address 1",
+	"lat": "35.342",
+	"lng": "45.099"
+},
+
+{
+	"id"  : "UA-53",
+	"name": "Region 2",
+	"address": "Address 2",
+	"lat": "35.342",
+	"lng": "45.099"
+},
+
+{
+	"id"  : "UA-71",
+	"name": "Region 3",
+	"address": "Address 3",
+	"lat": "35.342",
+	"lng": "45.099"
+}
+
+
+]
